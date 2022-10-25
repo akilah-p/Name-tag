@@ -26,7 +26,7 @@ Additional considerations:
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
     ReadMe
-
+![](./assets/wireframe.PNG)
 #State
 
 1. Display Name
@@ -50,4 +50,4 @@ Additional considerations:
 <h1>Hello, my name is</h1>
 <p>NAME</p>
 </section>
-![](./assets/wireframe.PNG)
+
