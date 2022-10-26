@@ -4,10 +4,10 @@
 
 /* State */
 const nameDisplay = document.getElementById('name');
-console.log('nameDisplay', nameDisplay);
+//console.log('nameDisplay', nameDisplay);
 nameDisplay.textContent = 'Akilah';
 nameDisplay.classList.add('pink');
-const update Btn=document.getElementById('');
+const updateBtn = document.getElementById('update-btn');
 
 /* Events */
 
