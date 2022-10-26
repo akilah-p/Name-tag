@@ -25,3 +25,29 @@ Additional considerations:
     -   What needs to live in a persistence layer?
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
+    ReadMe
+![](./assets/wireframe.PNG)
+#State
+
+1. Display Name
+2. Color of the tag
+
+#Events
+
+1. Input Field
+   2)Button to submit
+   3)Selector -color dropdown
+
+#HTML
+
+<section>
+<h1>Hello, my name is</h1>
+<input />
+<button></button>
+<select></select>
+</section>
+<section>
+<h1>Hello, my name is</h1>
+<p>NAME</p>
+</section>
+

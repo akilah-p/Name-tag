@@ -3,6 +3,11 @@
 /* Get DOM Elements */
 
 /* State */
+const nameDisplay = document.getElementById('name');
+//console.log('nameDisplay', nameDisplay);
+nameDisplay.textContent = 'Akilah';
+nameDisplay.classList.add('pink');
+const updateBtn = document.getElementById('update-btn');
 
 /* Events */
 
